@@ -9,7 +9,7 @@
 1. LRU Implementation on list and 
 2. OOPS implementation
 
-# Estee lauder :-
+# Estee lauder :--
 
 # Firework:-
  1. merge ovelap algorithm que .
